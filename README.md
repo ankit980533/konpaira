@@ -11,9 +11,9 @@ There is an issue with file storage but the whole application runs on local mach
 ## Screenshots
 
 
-![App Screenshot](https://github.com/prince-codes23/konpaira/blob/main/screenshots/2022-06-28_12-53.png)
-![App Screenshot](https://github.com/prince-codes23/konpaira/blob/main/screenshots/2022-06-28_12-53_1.png)
-![App Screenshot](https://github.com/prince-codes23/konpaira/blob/main/screenshots/2022-06-28_12-54.png)
+![App Screenshot](https://github.com/ankit980533/konpaira/blob/main/screenshots/2022-06-28_12-53.png)
+![App Screenshot](https://github.com/ankit980533/konpaira/blob/main/screenshots/2022-06-28_12-53_1.png)
+![App Screenshot](https://github.com/ankit980533/konpaira/blob/main/screenshots/2022-06-28_12-54.png)
 
 ## Tech Stack
 
@@ -27,6 +27,7 @@ HTML, CSS, JavaScript, EJS, Mongodb, Nodejs, Express
 To deploy this project run
 
 ```bash
+  npm install
   npm start
 ```
 
