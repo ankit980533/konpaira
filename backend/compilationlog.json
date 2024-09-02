@@ -19,7 +19,7 @@
       "command": "'ruby '+ file + language +'< '+ file + 'in  '"
     },
     "rust": {
-      "command": "'ruby '+ file + language +'< '+ file + 'in '"
+      "command": "'rustc ' + file + language + ' -o ' + file + 'out && ./' + file + 'out < ' + file + 'in'"
     },
     "kotlin": {
       "command": "'kotlinc '+ file + language +'< '+ file + 'in '"
